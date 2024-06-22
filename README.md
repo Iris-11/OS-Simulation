@@ -11,8 +11,14 @@ We can perform following operations -
 Create file, delete file, show file path of a file, search for a file
 ### Algorithms 
 Data Structures used - Queues, Arrays
+
+
 Algorithms used - sorting techniques
-Contains CPU scheduling algorithms- FCFS, SJF, Round Robin, Priority scheduling
+
+
+CPU scheduling algorithms- FCFS, SJF, Round Robin, Priority scheduling
+
+
 The arrival time of these processes is noted in real-time. A process for this project is considered to be any operation done in the file system.
 The time for the operation is noted and used as arrival time
 

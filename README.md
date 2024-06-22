@@ -5,10 +5,18 @@ This was made as a group project for Data structures Lab.
 
 ### File system
 Data Structures used - Multiway tree, arraylist
+
+
 We created a file management system using a tree data structre
+
+
 Each node in the tree can have multiple children
+
+
 We can perform following operations - 
 Create file, delete file, show file path of a file, search for a file
+
+
 ### Algorithms 
 Data Structures used - Queues, Arrays
 
